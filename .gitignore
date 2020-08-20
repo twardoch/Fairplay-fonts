@@ -141,3 +141,5 @@ venv.bak/
 *.vfc
 
 *.vfc
+sources/Fairplay-Italic.vfc
+sources/Fairplay-Roman.vfc
