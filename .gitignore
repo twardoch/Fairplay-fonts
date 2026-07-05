@@ -138,8 +138,5 @@ venv.bak/
 
 *(Autosaved)*
 
+# FontLab binary cache — regenerated from the .vfj sources
 *.vfc
-
-*.vfc
-sources/Fairplay-Italic.vfc
-sources/Fairplay-Roman.vfc
