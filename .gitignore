@@ -140,3 +140,6 @@ venv.bak/
 
 # FontLab binary cache — regenerated from the .vfj sources
 *.vfc
+sources/*.backup/
+.DS_Store
+*.pyc
